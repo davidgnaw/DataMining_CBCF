@@ -1,4 +1,4 @@
-# DataMining_CBCF
+# Recommender System in Medical Domain
 
 Research Project:
 
